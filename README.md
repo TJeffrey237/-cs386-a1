@@ -1,1 +1,5 @@
-# -cs386-a1
+# My Car Driver
+## Developers
+
+## Installation
+Pip: https://pypi.org/project/pip/
