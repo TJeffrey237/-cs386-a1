@@ -1,6 +1,6 @@
 # My Car Driver
 ## Developers
-**Tyler Jeffrey**, _ _Richelle Rouleau_ _, Jackson Belzer
+**Tyler Jeffrey**, _Richelle Rouleau_, Jackson Belzer
 
 ## Installation
 Pip: https://pypi.org/project/pip/
